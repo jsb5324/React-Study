@@ -1,0 +1,10 @@
+/* 선택자(태그) (속성:값) */
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
